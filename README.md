@@ -30,3 +30,28 @@ This project is a secure and scalable Asset Management System designed to improv
 ---
 
 ## Project Structure
+frontend/
+backend/
+database/
+docs/
+
+
+---
+
+##  Security Features
+- JWT Authentication  
+- Role-based access control  
+- Audit logging  
+- Data encryption  
+
+---
+
+##  Future Improvements
+- AI-based asset tracking  
+- Mobile app integration  
+- Real-time monitoring (IoT)  
+
+---
+
+##  Author
+Christopher Annor Boadu
