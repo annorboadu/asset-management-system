@@ -1,0 +1,6 @@
+database/schema.sql
+CREATE TABLE assets (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(100),
+  type VARCHAR(50)
+);
